@@ -26,7 +26,8 @@ Main focus areas include:
 - Kali Linux and LinuxMint VM for local LAN host.
 - kali VM LINK: https://www.kali.org/get-kali/#kali-virtual-machines
 - Linux Mint LINK: https://linuxmint.com/download.php 
-- Minimum: 1 vCPU, 1.5GB RAM. 
+- Kali Requirement Minimum: 1 vCPU, 1 GB RAM.
+- Linux Mint Requirement Minimum: 1 vCPU, 1.5GB RAM. 
 
 📎 How to Use:
 --------------
