@@ -19,10 +19,13 @@ Main focus areas include:
 🧪 Lab Requirements:
 --------------------
 - Host: Windows 10/11 with VMware Pro 17
-- FortiGate VM64-KVM v7.2.11 
+- FortiGate VM64-KVM v7.2.11
+- FortiGate VM LINK: https://drive.google.com/file/d/1kFharWLVj1du0tZLDAloyyg_u2y6eUrS/view?usp=drive_link 
 - Minimum: 4 vCPU, 8GB RAM, 10GB disk
 - Internet access via bridged adapter to go to the internet. 
-- Kali Linux and LinuxMint VM for local LAN host. 
+- Kali Linux and LinuxMint VM for local LAN host.
+- kali VM LINK: https://www.kali.org/get-kali/#kali-virtual-machines
+- Linux Mint LINK: https://linuxmint.com/download.php 
 - Minimum: 1 vCPU, 1.5GB RAM. 
 
 📎 How to Use:
